@@ -1,2 +1,8 @@
 我是yzp/main
 1=222222
+
+function test(){
+
+   echo 111;
+}
+
