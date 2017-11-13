@@ -1,3 +1,2 @@
 # mygit
-dqwdwqdwqdqdqwd
-测试
+test
